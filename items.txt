@@ -1,0 +1,4 @@
+/l/lingerie/tights#intid=gnav_women_lingerieandnightwear_tights
+/l/lingerie/all-nightwear/dressing-gowns#intid=gnav_women_lingerieandnightwear_dressing%20gowns
+/l/brands/sosandar#intid=gnav_women_lingerieandnightwear_Sosandar
+/l/women/footwear/fs5/sandals-1#intid=gnav_women_footwear_Sandals
